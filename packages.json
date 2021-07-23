@@ -1,0 +1,14 @@
+[
+    {
+        "package": "tfnswapi",
+        "url": "https://github.com/asiripanich/tfnswapi"
+    },
+    {
+        "package": "aurinapi",
+        "url": "https://github.com/asiripanich/aurinapi"
+    },
+    {
+        "package": "emdash",
+        "url": "https://github.com/asiripanich/emdash"
+    }
+]
